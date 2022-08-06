@@ -1,12 +1,10 @@
 # flappybird
 
-A new Flutter project.
 
-## Getting Started
+[! App Mockup] (lib\assets\images\App Mockup.png)
 
-This project is a starting point for a Flutter application.
+Flappy bird app, made completely using Dart and Flutter.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)

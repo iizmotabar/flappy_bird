@@ -1,7 +1,7 @@
 # flappybird
 
 
-[! App Mockup] (lib\assets\images\App Mockup.png)
+[!App Mockup] (lib\assets\images\App Mockup.png)
 
 Flappy bird app, made completely using Dart and Flutter.
 

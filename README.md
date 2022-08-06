@@ -1,12 +1,12 @@
 # flappybird
 
 
-[!App Mockup] (lib\assets\images\20220806_234104445.png)
+![App Mockup] (lib\assets\images\20220806_234104445.png)
 
 Flappy bird app, made completely using Dart and Flutter.
 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)Cancel changes
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the

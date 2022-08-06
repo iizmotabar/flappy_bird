@@ -1,7 +1,7 @@
 # flappybird
 
 
-![App Mockup] (lib\assets\images\20220806_234104445.png)
+![App Mockup] (flappy_bird/lib/assets/images/20220806_234104445.png)
 
 Flappy bird app, made completely using Dart and Flutter.
 
